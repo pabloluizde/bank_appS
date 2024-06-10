@@ -1,0 +1,10 @@
+
+ extractList = [{cardNumber:"0000 9898 3232 4545",valorTotal:"3.200,00",extract:{
+    extractCard:[{icon:"game-controller",category:"Web", paymentMethod:"à vista",cardNumber:"0000 9898 3232 4545", id: 1,title:"Xbox",data:"04/06/2024", valor:"300,00"},{icon:"shopping-cart",category:"Alimentação", paymentMethod:"à vista", cardNumber:"0000 9898 3232 4545",id: 2,data:"02/06/2024", title:"Mercado", valor:"1.200,00"},{icon:"man",category:"Saúde", paymentMethod:"à vista",cardNumber:"0000 9898 3232 4545", id: 3,title:"Academia",data:"25/05/2024",   valor:"500,00"},{icon:"game-controller",category:"Web", paymentMethod:"à vista",cardNumber:"0000 9898 3232 4545", id: 4,title:"Playstation", data:"20/05/2024",  valor:"600,00"},{icon:"game-controller",category:"Web",  paymentMethod:"à vista",cardNumber:"0000 9898 3232 4545",id: 5,title:"Nintendo",data:"20/05/2024",   valor:"600,00"},]
+ }},{cardNumber:"0000 9898 3232 5000",valorTotal:"4.200,00",extract:{
+   extractCard:[{icon:"shopping-basket",category:"Varejo",paymentMethod:"à vista", id: 1,title:"Renner",data:"04/06/2024", valor:"300,00",cardNumber:"0000 9898 3232 5000"},{icon:"shopping-cart",category:"Alimentação", paymentMethod:"à vista",cardNumber:"0000 9898 3232 5000",id: 2,data:"02/06/2024", title:"Mercado", valor:"2.200,00"},{icon:"shopping-cart",category:"Alimentação",paymentMethod:"à vista", cardNumber:"0000 9898 3232 5000", id: 3,title:"Padaria",data:"25/05/2024",   valor:"500,00"},{icon:"key",category:"Auto", cardNumber:"0000 9898 3232 5000",id: 4,title:"Mecanica Rj", data:"20/05/2024",  valor:"600,00"},{icon:"laptop",category:"Web", paymentMethod:"à vista",cardNumber:"0000 9898 3232 5000", id: 5,title:"Apple",data:"20/05/2024",   valor:"600,00"},]
+}}]
+
+contactLis=[{name:"Lucas Silva", abrevition:"LS"},{name:"Paulo Souza", abrevition:"PS"},{name:"Emerson Carlos", abrevition:"EC"},{name:"Guga Carlos", abrevition:"GC"},{name:"Valter Pereira", abrevition:"VP"},{name:"Fernando Pontes", abrevition:"FP"},]
+
+export default { extractList,contactLis} ;
